@@ -1,1 +1,1 @@
-hello new temlplate
+hello new
